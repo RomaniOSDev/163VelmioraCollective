@@ -9,9 +9,9 @@ enum AppExternalLink {
     var urlString: String {
         switch self {
         case .privacyPolicy:
-            return "https://velmioracollective163.site/privacy/165"
+            return "https://velmioracollective.com/privacy-policy.html"
         case .termsOfUse:
-            return "https://velmioracollective163.site/terms/165"
+            return "https://velmioracollective.com/support.html"
             
         }
     }
